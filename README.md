@@ -38,8 +38,7 @@ LINK :  https://huggingface.co/spaces/Pranitha16/Roam-Ready
 ## Project Structure:
 
 RoamReady/
-│── app.py            → Main Gradio app
-│── travel_agent.py   → LangChain + LangGraph workflow          
+│── app.py            → Main File       
 │── requirements.txt  → Python dependencies
 │── README.txt        → Project documentation
 
